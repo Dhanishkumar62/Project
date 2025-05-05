@@ -1,0 +1,43 @@
+
+*{
+  margin: 0;
+}
+.image{
+  display:flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.shop-section{
+  height:300px;
+  width:24%;
+ background-size: cover;
+ margin-top:2.5rem;
+}
+
+.box1{
+  height:300px;
+ background-size: cover;
+ 
+  
+}
+
+.heading{
+  font-size:40px;
+  margin-left:3rem;
+  /* margin-top:1.5rem; */
+  
+}
+a{
+  color: fuchsia;
+  text-decoration: none;
+}
+p{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size:1.5rem;
+  color: fuchsia;
+  
+}
+
